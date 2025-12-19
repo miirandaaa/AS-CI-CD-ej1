@@ -4,7 +4,6 @@ on:
   push:
     branches: [ "nueva-caracteristica" ]
 
-
 jobs:
   build:
     runs-on: ubuntu-latest
